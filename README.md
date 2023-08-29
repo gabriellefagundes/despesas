@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de despesas
 
 ## 📋 Sobre o projeto
@@ -18,3 +19,8 @@ Tabela criada nas aulas de Fundamentos de desenvolvimento web.  Nessas aulas, o 
 * Visual Studio Code
 * Git 
 * Git Hub
+=======
+
+
+
+>>>>>>> 2a4deabffb6f1919a6497781123efbf6b5f071ac
