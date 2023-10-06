@@ -20,3 +20,7 @@ Tabela criada nas aulas de Fundamentos de desenvolvimento web.  Nessas aulas, o 
 * Git Hub
 * HTML5
 * CSS3
+
+## ✍🏻Autores
+| [<img loading="gaby.jpeg" src="gaby.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| :---: 
